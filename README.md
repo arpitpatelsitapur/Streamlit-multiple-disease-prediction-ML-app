@@ -14,7 +14,7 @@
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.12.2
 - pip (package installer for Python)
 
 ### Installation
@@ -22,7 +22,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/disease-prediction-app.git
+   git clone https://github.com/arpitpatelsitapur/Streamlit-multiple-disease-prediction-ML-app
    ```
 
 2. Navigate to the project directory:
